@@ -46,7 +46,7 @@ h2{
     margin-top: 10px;
 
 }
-contact-form.contact-form{
+#contact-form{
     font-family: Arial, Helvetica, sans-serif;
     border-radius: 10px;
 }
@@ -58,10 +58,6 @@ contact-form.contact-form{
     padding-right: 2in;
     font-size: 14px;
 }
-p1{line-height: 25px;
-    color: grey
-}
-
  .img-mm {
      height: 200px;
      float: left;
@@ -103,4 +99,3 @@ background-color: black;
 color: white;
 width: 150px;
 height: auto;
-}
