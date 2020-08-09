@@ -1,0 +1,106 @@
+
+.about-me {
+    padding-top: 25px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;}
+
+.plant-img{
+    height: 200px;
+    width: auto;
+}
+
+.contact {
+    margin-top: 50px;
+    padding-left: 2in;
+    font-size: 14px;
+}
+
+form{
+    margin-top: 25px;
+    padding-left: 2.5in;
+
+}
+.form-control{
+width: 600px;
+border-radius: 1px solid gray;
+font-family: Arial, Helvetica, sans-serif;
+
+
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.submit{
+    background-color: gray;
+    border-color: transparent;
+    color: white;
+    font-size: 14px;
+    letter-spacing: 2px;
+    height: 30px;
+    width: 110px;
+    margin-top: 10px;
+
+}
+contact-form.contact-form{
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+}
+.about{
+    border: 1px solid black;
+    display: inline-block;
+    margin-top: 50px;
+    padding-left: 2in;
+    padding-right: 2in;
+    font-size: 14px;
+}
+p1{line-height: 25px;
+    color: grey
+}
+
+ .img-mm {
+     height: 200px;
+     float: left;
+     padding: 0px 10px 0px;
+ }
+ .text-wrapper {
+     width: 100%;
+     position: center;
+     margin-top: -40%
+ }
+ .text-wrapper h3{
+     text-align: center;
+     color: pink;
+     font-size: 16px;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+
+ ul{
+     list-style-type: none;
+     float: right;
+ }
+ ul li{
+     display: inline-block;
+ }
+ ul li a{
+     color: gray;
+     padding: 5px 10px;
+
+}
+.name h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:5px 20px;
+    display: inline-block;
+}
+.name{
+background-color: black;
+color: white;
+width: 150px;
+height: auto;
+}
